@@ -44,7 +44,7 @@ namespace BankManagementSystem.Forms
             lblDetails.Text = 
                 "IT 120 Event Driven Programming\n" +
                 "Activity 5: User Authentication & Management\n\n" +
-                "Developed by: Developed by: Barrameda, Ane Christel\nBSIT 3A\n\nCollaborator: achi0725\n\n" +
+                "Developed by: Developed by: Barrameda, Ane Christel - BSIT 3A\n\nCollaborator: achi0725\n\n" +
                 "Features:\n" +
                 "✓ User Authentication\n" +
                 "✓ Password Recovery\n" +
