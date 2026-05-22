@@ -1,0 +1,20 @@
+﻿# Visual Studio
+.vs/
+bin/
+obj/
+Debug/
+Release/
+*.user
+*.suo
+*.cache
+
+# NuGet packages
+packages/
+
+# Compiled files
+*.exe
+*.dll
+*.pdb
+
+# Logs
+*.log
